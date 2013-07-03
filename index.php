@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="stylesheet/less" type="text/css" href="assets/css/style.less" />
+    <!-- <link rel="stylesheet/less" type="text/css" href="assets/css/style.less" /> -->
     <link rel="stylesheet/less" type="text/css" href="assets/css/style.css" />
     <meta name="viewport" content="width=device-width">
     <link href='http://fonts.googleapis.com/css?family=Scada:400,700' rel='stylesheet' type='text/css'>
